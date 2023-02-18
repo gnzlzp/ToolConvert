@@ -20,5 +20,5 @@ En desarrollo primer challenge en la especialización Backend propuesto por <a h
   <li>Tether</li>
   <li>BNB</li>
 </ul>
-<p>Adicionalmente se agregaran otras herramientas para el día a día en la oficina o la construcción</p>
+<p>Adicionalmente se agregarn otras herramientas para el día a día en la oficina o la construcción</p>
 <h3>Estad Atento!!!</h3>
