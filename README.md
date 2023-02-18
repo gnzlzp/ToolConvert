@@ -13,12 +13,12 @@ En desarrollo primer challenge en la especialización Backend propuesto por <a h
   <li>Yen Japonés</li>
   <li>Won sul-coreano</li>
 </ul>
-<h2>Tambien tendra la sección de Criptomonedas</h2>
+<h2>También tendr la sección de Criptomonedas</h2>
 <ul>
   <li>BitCoin</li>
   <li>Ethereum</li>
   <li>Tether</li>
   <li>BNB</li>
 </ul>
-<p>Adicionalmente se agregaran otras herramientas para el día a día en la oficina o la construccin</p>
+<p>Adicionalmente se agregaran otras herramientas para el día a día en la oficina o la construcción</p>
 <h3>Estad Atento!!!</h3>
