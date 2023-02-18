@@ -13,7 +13,7 @@ En desarrollo primer challenge en la especialización Backend propuesto por <a h
   <li>Yen Japonés</li>
   <li>Won sul-coreano</li>
 </ul>
-<h2>También tendr la sección de Criptomonedas</h2>
+<h2>También tendrá la sección de Criptomonedas</h2>
 <ul>
   <li>BitCoin</li>
   <li>Ethereum</li>
